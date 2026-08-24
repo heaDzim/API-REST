@@ -1,4 +1,4 @@
-API REST - Baozi Store
+###API REST - Baozi Store###
 
 Projeto desenvolvido para a atividade prática da disciplina de Desenvolvimento Web Back-End, utilizando Java, Spring Boot, Spring Data JPA, MySQL e Postman.
 
@@ -6,11 +6,10 @@ A aplicação consiste em uma API REST para controle básico de clientes, produt
 
 Nome: Marcelo Souza RU 5151437
 
-Tecnologias utilizadas
+#Tecnologias utilizadas#
 - Java, Spring Boot, Spring Data JPA, MySQL, Maven, Postman, JSON, API REST com Arquitetura MVC.
 
-Estrutura do projeto
-
+#Estrutura do projeto#
 O projeto foi organizado seguindo a arquitetura MVC do Spring Boot, utilizando os seguintes packages:
 
 src/main/java
